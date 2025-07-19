@@ -1,24 +1,24 @@
-### Hi 👋, I'm Ruba Qazi
+### Hi 👋, I'm Mubashira Fatima
 
 
 <div>
 
-- 🌱 I’m currently working as a **SQA Engineer** at [DynamoLogic Solutions](https://www.dynamologic.com/)
+- 🌱 I’m currently working as a **MERN Stack** at [DynamoLogic Solutions](https://www.dynamologic.com/)
 
 - 🤪 Once a vigilant SQA Engineer, now a full-stack spellcaster!
 I conjure seamless user experiences with React.js, craft portals with Next.js, and command the server realm using Node.js. Fluent in console.log(), fearless with bugs, and always building something magical — I bring imagination to code and pixels to life 😄 
 - 📫 Reach me at **rubaqazi2000@gmail.com**
 
 <p align='center'>
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=I'm+Ruba+Qazi;Web+Developer;MERN+Engineer;SQA+Engineer;%40ruba24">
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=I'm+Mubashira+Fatima;Web+Developer;MERN+Engineer;SQA+Engineer;%40mubashira991">
 </p>
 <p align='center'>
 <img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" allowFullScreen></img></p>
 <hr>
 <br>
 <p align='center'>
-<img src="https://komarev.com/ghpvc/?username=ruba24">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/github/followers/ruba24?style=social">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://komarev.com/ghpvc/?username=mubashira991">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/github/followers/mubashira991?style=social">&nbsp;&nbsp;&nbsp;&nbsp;
 
 </p>
 
@@ -26,17 +26,17 @@ I conjure seamless user experiences with React.js, craft portals with Next.js, a
 
 ## Contribution Snake
 
-![snake animation](https://github.com/ruba24/ruba24/blob/output/ocean.gif)
+![snake animation](https://github.com/ruba24/mubashira991/blob/output/ocean.gif)
 
 ## Github Stats
 <br>
 <div align="center">
-    <img height="155em" src="https://github-readme-stats.vercel.app/api?username=ruba24&show_icons=true&rank_icon=github&theme=slateorange&title_color=f34213&text_color=0c0c0c&icon_color=0c0c0c&locale=en&hide_border=true&bg_color=bbb8b2" alt="GithubStats" />
-    <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ruba24&show_icons=true&theme=slateorange&title_color=f34213&text_color=0c0c0c&icon_color=0c0c0c&layout=compact&hide_border=true&bg_color=bbb8b2" alt="TopLanguages" />
+    <img height="155em" src="https://github-readme-stats.vercel.app/api?username=mubashira991&show_icons=true&rank_icon=github&theme=slateorange&title_color=f34213&text_color=0c0c0c&icon_color=0c0c0c&locale=en&hide_border=true&bg_color=bbb8b2" alt="GithubStats" />
+    <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs?username=mubashira991&show_icons=true&theme=slateorange&title_color=f34213&text_color=0c0c0c&icon_color=0c0c0c&layout=compact&hide_border=true&bg_color=bbb8b2" alt="TopLanguages" />
    
 </div>
 <div align="center">
-    <img  src="https://streak-stats.demolab.com/?user=ruba24&theme=dark" alt="Streaks" />
+    <img  src="https://streak-stats.demolab.com/?user=mubashira991&theme=dark" alt="Streaks" />
 </div>
 
 ## Technology Stack 💻

@@ -1,11 +1,4 @@
-<p align="center>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./header-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./header.svg" />
-    <img alt="" src="./header.svg" width="100%" />
-  </picture>
-</p>
-
+<br/><br/>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Mubashira+Fatima+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;Full+Stack+Engineer+%7C+MERN+%2B+FastAPI;AI-enabled+Solutions+%7C+GCP+%7C+Azure;Lifelong+Learner+and+Builder" alt="Typing SVG" />
 </p>

@@ -1,79 +1,77 @@
-### Hi 👋, I'm Mubashira Fatima 👩‍💻
+<p align="center>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./header-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./header.svg" />
+    <img alt="" src="./header.svg" width="100%" />
+  </picture>
+</p>
 
-Full Stack Software Engineer @ Resilient Technologies Ltd  
-🚀 Passionate about crafting scalable, meaningful products using logic, collaboration & AI-enabled technologies.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Mubashira+Fatima+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;Full+Stack+Engineer+%7C+MERN+%2B+FastAPI;AI-enabled+Solutions+%7C+GCP+%7C+Azure;Lifelong+Learner+and+Builder" alt="Typing SVG" />
+</p>
 
----
+<p align="center">
+  <b>Full Stack Software Engineer @ Resilient Technologies Ltd</b>  
+  <br>Passionate about building scalable, meaningful products using logic, collaboration & AI-enabled tech.
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mubashira991&label=Profile+Views&color=brightgreen" alt="visitor badge"/>
+</p>
+
+&nbsp;
 
 ## 🔥 Featured Projects
-- **Perception Insights Explorer** — GPT-powered sentiment analysis (92%+ classification accuracy)
-- **Job Portal App** — TypeScript-based MERN app with JWT Auth, Role Mgmt, and Email Alerts
-- **Iris Classifier** — ML-powered web app (Python + Flask)
-- *(See pinned repositories below)*
 
----
+- **Perception Insights Explorer** — GPT-powered sentiment analysis (92%+ classification accuracy)  
+- **Job Portal App** — TypeScript-based MERN app with JWT Auth, Role Mgmt, and Email Alerts  
+- **Iris Classifier** — ML-powered web app (Python + Pandas)  
 
-## 💡 Currently Exploring
-- Scalable Architecture, Data Structures  
-- Google Cloud Platform (GCP) Services
-- SQL Query Optimization & Relational DB Modeling
+&nbsp;
 
----
+<p align="center">
+  💡 Currently Exploring GCP, AI models, and the strange loop of using AI to debug the AI that just broke my app.
+</p>
+
+&nbsp;
 
 ## 🛠️ Tech Stack
 
-### 🧠 Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind,html,css,vscode,github,git,figma,mui" /><br><br>
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,python,nodejs,express,nextjs,java,c,fastapi,firebase,mysql,mongodb" />
+</div>
 
-### 💻 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+&nbsp;
 
-### 🔙 Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-
-### 🧠 Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### ☁️ Cloud & Services
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![DataforSEO](https://img.shields.io/badge/DataforSEO-4B0082?style=for-the-badge)
-
-### 🔧 Tools & IDEs
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-## 📈 GitHub Stats
-
+## 📈 GitHub Stats  
 <p align="center">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=mubashira991&show_icons=true&theme=calm&title_color=F05454&text_color=000000&bg_color=ffffff&hide_border=true" />
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mubashira991&layout=compact&theme=calm&title_color=F05454&text_color=000000&bg_color=ffffff&hide_border=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Mubashira991&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mubashira991&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="160em" src="https://streak-stats.demolab.com/?user=Mubashira991&theme=tokyonight&hide_border=true" />
 </p>
 
----
+&nbsp;
 
-## 🐍 Contribution Activity
+## 🐍 Contribution Activity  
+<p align="center">
+<img src="https://raw.githubusercontent.com/Mubashira991/Mubashira991/output/github-snake-dark.svg" />
+</p>
 
-![snake animation](https://github.com/ruba24/mubashira991/blob/output/ocean.gif)
----
+&nbsp;
 
-## 🤝 Connect With Me
+## 🤝 Connect With Me  
+<p align="center">
+<a href="https://www.linkedin.com/in/mubashirafatima/" target="_blank">
+<img src="https://img.shields.io/badge/-Mubashira%20Fatima-blue?style=for-the-badge&logo=Linkedin&logoColor=white">
+</a>
+&nbsp;&nbsp;
+<a href="mailto:mubashirafatima991@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/-Mubashira%20Fatima-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mubashirafatima/)](https://www.linkedin.com/in/mubashirafatima/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mubashirafatima991@gmail.com)
+&nbsp;
 
----
-
-> ⭐ *Support me by starring some of my repositories — Thanks for visiting!*  
+<p align="center"><strong>⭐ Support me by starring some of my repositories — Thanks for visiting!</strong></p>

@@ -66,8 +66,7 @@ Full Stack Software Engineer @ Resilient Technologies Ltd
 
 ## 🐍 Contribution Activity
 
-![snake gif](https://github.com/mubashira991/mubashira991/blob/output/github-contribution-grid-snake.svg)
-
+![snake animation](https://github.com/ruba24/mubashira991/blob/output/ocean.gif)
 ---
 
 ## 🤝 Connect With Me
